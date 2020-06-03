@@ -3,14 +3,4 @@ Frontend Demo for Visualizing COVID19's Transmission
 ## Frame
 [Ant Design Pro](https://pro.ant.design/)
 ## Work In Process...
-* Init welcome page, set CHN/ENG language support
-* Init login page
-## How to use
-### Mac OS
-```
-brew install node
-cd <Your Folder Name>
-npm install
-npm start
-```
-Then you can view it on [http://localhost:8000](http://localhost:8000)
+Refer to [https://github.com/FDU-SW20-6A/Frontend](https://github.com/FDU-SW20-6A/Frontend)
